@@ -4,9 +4,11 @@ Repository of projects of [Javascript 30 Challenge](https://javascript30.com/).
 
 For 30 days I must build one project written in Vanilla Javascript every day.
 
+**Special thanks to** [Wes Bos](https://wesbos.com/) for the course and everything that i've learned.
+
 # List of projects
 
-1. **Drum Kit:** Changing CSS properties and making sounds with the keyboard using DOM manipulation.
+1. **Drum Kit:** Changing CSS properties and making sounds with the keyboard using DOM manipulation
 2. **JS and CSS Clock:** Following real time changing CSS properties with the Date.
 3. **CSS Variables:** Adding variables to CSS and changing properties dynamically in the page.
 4. **Array Cardio 1:** Learning map(), reduce(), filter() and sort() array functions.
